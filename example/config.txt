@@ -1,0 +1,2 @@
+Prefix plugins/TrellisScatter/example/
+Plugin TrellisScatter inputfile parameters.txt outputfile output.png
